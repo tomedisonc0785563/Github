@@ -1,7 +1,7 @@
 Greetings! 👋 I'm Tom.
 Data Engineer...
 
-I've always been interested in data-driven projects. I enjoy analyzing data and sharing insights with people. If you appreciate my work and want a developer, don't be afraid to get in touch with me if I can assist.
+I've always been interested in data-driven projects. I enjoy analyzing data and sharing insights with people. If you appreciate my work and want a cloud data engineer, don't be afraid to get in touch with me if I can assist.
 
 Find me around the web 🌎
 
